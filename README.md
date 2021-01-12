@@ -4,3 +4,8 @@ A simple sketch to draw using GUI from Turtle graphics.
 
 
 ############### SKETCH Keys #####################
+- "W" -> Forwards
+- "S" -> Backwards
+- "A" -> Counter-Clockwise
+- "D" -> Clockwise
+- "C" -> Clear
