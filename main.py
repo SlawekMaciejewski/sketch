@@ -14,10 +14,7 @@ def draw_back():
 
 
 def clear():
-    pen.penup()
-    pen.clear()
-    pen.home()
-    pen.pendown()
+    pen.reset()
 
 
 def rotate_counter_clockwise():
